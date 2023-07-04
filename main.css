@@ -1,0 +1,335 @@
+* {
+  margin: 0;
+  padding: 0;
+}
+
+body {
+  background-color: rgb(0, 0, 79);
+  color: white;
+}
+
+.section1 .manu {
+  width: 700px;
+  display: flex;
+  justify-content: space-evenly;
+}
+.section1 .manu ul {
+  align-items: center;
+  width: 300px;
+  display: flex;
+  justify-content: space-around;
+}
+.section1 .manu ul li {
+  list-style: none;
+}
+.section1 .our {
+  display: flex;
+  height: 100px;
+  align-items: center;
+}
+.section1 .our form {
+  margin-left: 300px;
+}
+.section1 .our form button {
+  width: 100px;
+  height: 30px;
+  background-color: orange;
+  border-radius: 10px;
+}
+.section1 .img .wer {
+  margin-top: -200px;
+  margin-left: -500px;
+}
+.section1 .img .img2 .lamp {
+  position: relative;
+  top: 200px;
+  left: 100px;
+}
+.section1 .img .img2 .book {
+  position: relative;
+  top: 70px;
+  left: 450px;
+}
+.section1 .text {
+  color: white;
+  margin-top: 400px;
+  position: relative;
+  left: 200px;
+}
+.section1 .text h1 {
+  font-size: 60px;
+  width: 500px;
+}
+.section1 .text p {
+  font-size: 20px;
+  margin-top: 10px;
+}
+.section1 .text form input {
+  height: 40px;
+  width: 500px;
+  font-size: 30px;
+  color: white;
+  background-color: rgb(0, 0, 79);
+  margin-top: 20px;
+}
+.section1 .text form button {
+  height: 40px;
+  width: 150px;
+  margin-top: 10px;
+  background-color: rgb(0, 0, 79);
+  color: white;
+  margin-top: 30px;
+  margin-left: 20px;
+}
+.section1 .all {
+  display: flex;
+}
+
+.section2 {
+  display: flex;
+  justify-content: space-around;
+  margin-top: 100px;
+  height: 150px;
+}
+.section2 .nav1 h2 {
+  width: 500px;
+}
+.section2 .nav1 p {
+  width: 300px;
+  margin-left: 30px;
+}
+.section2 .nav2 h2 {
+  width: 280px;
+}
+.section2 .nav2 p {
+  width: 300px;
+  margin-left: 30px;
+}
+.section2 .nav3 h2 {
+  width: 500px;
+}
+.section2 .nav3 p {
+  width: 300px;
+  margin-left: 30px;
+}
+
+.section3 .wed h1 {
+  display: flex;
+  justify-content: center;
+}
+.section3 .wed p {
+  display: flex;
+  justify-content: center;
+}
+.section3 .new {
+  display: flex;
+  justify-content: space-around;
+  margin-top: 20px;
+}
+.section3 .pen1 {
+  border: 1px solid black;
+  height: 350px;
+  width: 250px;
+}
+.section3 .pen1 .pen2 {
+  background-image: url(./Rectangle\ 44.png);
+  height: 170px;
+}
+.section3 .pen1 .pen2 .pen3 {
+  position: relative;
+  top: 120px;
+  left: 20px;
+  border: 1px solid black;
+  background-color: rgba(176, 172, 172, 0.216);
+  height: 20px;
+  width: 100px;
+}
+.section3 .pen1 .pen4 .sd {
+  color: rgb(134, 129, 129);
+}
+.section3 .pen1 .pen4 hr {
+  color: black;
+}
+.section3 .pen1 .pen4 .cd {
+  margin-top: 10px;
+  display: flex;
+}
+.section3 .pen1 .pen4 .cd .awer {
+  margin-left: 50px;
+}
+.section3 .pen1 .pen4 .cd .awer .tir {
+  color: rgb(134, 129, 129);
+}
+.section3 .pen1 .fin {
+  border: 1px solid black;
+  background-color: orange;
+  color: white;
+  height: 30px;
+  width: 100px;
+  border-radius: 5px;
+  position: relative;
+  left: 50px;
+  top: 20px;
+}
+.section3 .pen1 .fin p {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.no {
+  display: flex;
+  justify-content: center;
+}
+.no h3 {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  margin-top: 50px;
+  border: 1px solid black;
+  height: 30px;
+  width: 150px;
+  color: orange;
+}
+
+.section4 {
+  margin-top: 50px;
+}
+.section4 .moon h1 {
+  display: flex;
+  justify-content: center;
+}
+.section4 .moon p {
+  display: flex;
+  justify-content: center;
+}
+.section4 .imeg {
+  margin-top: 30px;
+}
+.section4 .imeg .fon1 {
+  position: relative;
+  left: 100px;
+  top: -50px;
+  z-index: -1;
+}
+.section4 .imeg .fon2 {
+  position: relative;
+  top: -50px;
+  left: -100px;
+  z-index: -1;
+}
+
+.section5 {
+  margin-top: 50px;
+}
+.section5 .son h1 {
+  display: flex;
+  justify-content: center;
+}
+.section5 .son p {
+  display: flex;
+  justify-content: center;
+}
+.section5 .dog1 {
+  display: flex;
+  justify-content: space-evenly;
+  margin-top: 30px;
+}
+.section5 .dog1 .dog2 {
+  border: 1px solid black;
+  border-radius: 20px;
+  height: 350px;
+  width: 300px;
+}
+.section5 .dog1 .dog2 .dog3 {
+  display: flex;
+  margin-top: 20px;
+  margin-left: 50px;
+}
+.section5 .dog1 .dog2 .dog3 .dog4 {
+  margin-left: 20px;
+}
+.section5 .dog1 .dog2 .cat1 hr {
+  display: flex;
+  width: 150px;
+  margin-left: 50px;
+  margin-top: 10px;
+}
+.section5 .dog1 .dog2 .cat1 ul {
+  margin-left: 40px;
+  margin-top: 20px;
+  font-size: 22px;
+}
+.section5 .dog1 .dog2 .cat1 ul li {
+  margin-top: 15px;
+}
+.section5 .dog1 .dog2 .cat2 {
+  display: flex;
+  justify-content: center;
+  margin-top: 50px;
+}
+.section5 .dog1 .dog2 .cat2 p {
+  border: 1px solid black;
+  width: 200px;
+  height: 30px;
+  background-color: orange;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.section6 {
+  border: 1px solid black;
+  display: flex;
+  justify-content: space-between;
+  background-color: blueviolet;
+  height: 400px;
+  width: 1300px;
+  margin-top: 50px;
+  margin-left: 100px;
+  border-radius: 50px;
+}
+.section6 .lap {
+  position: relative;
+  left: 150px;
+}
+.section6 .lap h1 {
+  font-size: 50px;
+  margin-top: 50px;
+  margin-left: 50px;
+}
+.section6 .lap p {
+  margin-top: 20px;
+  margin-left: 50px;
+  width: 300px;
+}
+.section6 .lap .top {
+  margin-top: 20px;
+  margin-left: 50px;
+  display: flex;
+  justify-content: space-between;
+  width: 400px;
+}
+.section6 .lap .top .der {
+  width: 170px;
+  height: 60px;
+}
+.section6 .div {
+  position: relative;
+  left: -150px;
+}
+
+.section7 {
+  margin-top: 50px;
+  display: flex;
+  justify-content: space-around;
+  height: 200px;
+}
+.section7 .did1 p {
+  margin-top: 10px;
+}
+.section7 .did1 .ser {
+  display: flex;
+  justify-content: space-around;
+  width: 200px;
+}/*# sourceMappingURL=main.css.map */
